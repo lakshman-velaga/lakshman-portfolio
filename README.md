@@ -1,4 +1,4 @@
-# Lakshman Velaga — Portfolio v2
+# Lakshman Velaga 
 
 A responsive React + Vite portfolio with:
 - Refined light mode as the default theme
